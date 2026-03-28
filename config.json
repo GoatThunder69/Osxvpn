@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "notice": "Welcome to OsxVPN! Premium servers available. Join @OsxSpace",
+  "telegram": "@OsxSpace",
+  "checksum": "WILL_GENERATE_LATER",
+  "servers": [
+    {
+      "name": "India - Jio Free",
+      "flag": "🇮🇳",
+      "location": "India",
+      "isp": "Jio",
+      "protocol": "both",
+      "target": "me.mohsinsofi.net:80@op:mohsin",
+      "proxy": "api.jio.com.jio.uk:80",
+      "payload": "GET / HTTP/1.1[crlf]Host: me.mohsinsofi.net [crlf]Upgrade: websocket[crlf][crlf]",
+      "ping": 90,
+      "signal": 4
+    },
+    {
+      "name": "India - Jio Premium",
+      "flag": "🇮🇳",
+      "location": "India",
+      "isp": "Jio",
+      "protocol": "both",
+      "target": "me.mohsinsofi.net:80@op:mohsin",
+      "proxy": "api.jio.com.jio.uk:80",
+      "payload": "GET / HTTP/1.1[crlf]Host: me.mohsinsofi.net [crlf]Upgrade: websocket[crlf][crlf]",
+      "ping": 85,
+      "signal": 5
+    }
+  ]
+}
