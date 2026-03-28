@@ -2,7 +2,7 @@
   "version": "1.0",
   "notice": "Welcome to OsxVPN! Premium servers available. Join @OsxSpace",
   "telegram": "@OsxSpace",
-  "checksum": "WILL_GENERATE_LATER",
+  "checksum": "3836e8e49c26f804bb6d17e53b6de974",
   "servers": [
     {
       "name": "India - Jio Free",
@@ -26,7 +26,7 @@
       "proxy": "api.jio.com.jio.uk:80",
       "payload": "GET / HTTP/1.1[crlf]Host: me.mohsinsofi.net [crlf]Upgrade: websocket[crlf][crlf]",
       "ping": 85,
-      "signal": 5
+      "signal": 4
     }
   ]
 }
